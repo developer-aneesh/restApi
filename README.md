@@ -11,4 +11,5 @@ Steps to run application
 
 API's
 http://localhost/restApi/index.php/users/list
+
 http://localhost/restApi/index.php/users/userDetails/{id} // replace id with valid number
