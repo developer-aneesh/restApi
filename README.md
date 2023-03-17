@@ -1,6 +1,6 @@
 # Rest Api - PHP
 
-This is simple PHP rest api application having throttle system to control api request from a refferer. The user can set number of requests per seconds in this application and return the resource based on request count.
+This is a simple PHP rest api application having throttle system to control api requests from a refferer. The user can set number of requests per seconds in this application and return the resource based on request count.
 
 Steps to run application
 1. Clone the application in to your web root
