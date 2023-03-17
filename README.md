@@ -1,4 +1,4 @@
-# restApi
+# Rest Api - PHP
 
 This is simple PHP rest api application having throttle system to control api request from a refferer. The user can set number of requests per seconds in this application and return the resource based on request count.
 
