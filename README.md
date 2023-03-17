@@ -10,6 +10,7 @@ Steps to run application
 5. The default rate limit is 5 request per 5 seconds (5Req/5Sec)
 
 API's
+
 http://localhost/restApi/index.php/users/list
 
-http://localhost/restApi/index.php/users/userDetails/{id} // replace id with valid number
+http://localhost/restApi/index.php/users/userDetails/{id}   // replace id with valid number
